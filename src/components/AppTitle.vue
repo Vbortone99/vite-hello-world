@@ -18,6 +18,7 @@
 <style lang="css" scoped>
     h1{
      text-align: center;
-     color: var(color darkgreen);
+     color: lime;
+     text-shadow: 15px 30px 8px  black;
     }
 </style>
