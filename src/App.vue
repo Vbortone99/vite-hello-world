@@ -1,20 +1,16 @@
 <template>
-  <header>
-    <h1></h1>
-  </header>
+  
 </template>
 
 <script>
   export default {
+    name:'App',
     components:{
-
+      AppTitle
     }
   }
 </script>
 
-<style lang="scss" scoped>
-  h1{
-    text-align: center;
-    color: var(color darkgreen);
-  }
+<style lang="css" scoped>
+  
 </style>
